@@ -7,7 +7,7 @@
 
 ## Authors
 
-- [@DARKALPHAXTEAM](https://www.github.com/darkalphaxteam)
+- [@DARKALPHAXTEAM](https://www.github.com/papaispy)
 
 ## Support Group
 
@@ -19,18 +19,6 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-
-## Heroku Deployment
-
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
-
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
-
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
-
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
-
-5. Deploy now without Heroku Suspend
 
 
 ## Features
@@ -47,12 +35,12 @@
 
 ## Support
 
-For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+For support, wa.me/554884702848
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail.com
+If you have any feedback, please reach out to us at wa.me/554888767821
 
 
 ## Environment Variables
@@ -66,18 +54,11 @@ To run this project, you will need to add the following environment variables to
 `HEROKU_API_KEY`
 
 
-## Script 
-
-If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/711421243)
-
-
-
-
 ## Info
 
 **Attention:** You dont have permission to edit this script
 
-**Special Thanks:** Vihanga YT, Nima , Sanuwa , Black Amda and Ravindu Manoj 
+**Special Thanks:** Spy
 
 ## Copyrights
 
